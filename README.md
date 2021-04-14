@@ -1,2 +1,2 @@
-# syntax.dev
-Class demos repository for each demo
+# Class Projects 
+All projects which will be done in class will go in this reposity
