@@ -1,2 +1,8 @@
-# Class Projects 
-All projects which will be done in class will go in this reposity
+# Personal Website
+Environment Setup
+---------------------------------
+github - for our version control
+text editor - vscode 
+knowlage in css and html
+
+Design and persona for your project
